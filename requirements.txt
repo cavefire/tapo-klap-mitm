@@ -1,0 +1,11 @@
+# Requirements for Map Converter
+lz4>=4.3.2
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# Requirements for MITM proxy
+mitmproxy>=10.0.0
+cryptography>=3.4.8
+python-kasa
+watchdog>=3.0.0
+requests>=2.25.0

@@ -1,0 +1,5 @@
+__pycache__/
+.venv/
+messages/
+python-kasa/
+.vscode/
